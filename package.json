@@ -1,0 +1,20 @@
+{
+  "name": "p4-backdata_js",
+  "version": "1.0.0",
+  "description": "Serveur API pour acceder a la BDD météo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean-Léo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "mongodb": "^6.4.0",
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  }
+}
